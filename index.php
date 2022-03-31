@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!-- ICS2O-Unit2-04-AreaPerRectangle-UserInput -->
+<!-- ICS2O-Unit2-05-PHP-Salary -->
 <html lang="en-ca">
   <head>
     <meta charset="utf-8">
